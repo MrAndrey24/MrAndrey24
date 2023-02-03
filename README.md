@@ -14,7 +14,7 @@ I am a passionate software engineer who enjoys everything related to app develop
 
 ## 💻 Technologies I Use
 
-💻 Programming Languages: C#, Java
+💻 Programming Languages: C#, Java, Kotlin
 
 🖥️ Back-end Technologies: .Net Core, .Net Framework, Spring Boot
 
