@@ -1,8 +1,28 @@
 ![](https://media.giphy.com/media/8wjW9AIa7H9enTodxz/giphy.gif)
 
 ## 👦 About Me
-Hello! I am a software engineer who loves everything related to the world of software development. I love helping to create new applications using all kinds of patterns and rules to give the most efficient, scalable and readable code possible. I am currently a student, always excited to learn new things, new ways to build better software, and new skills.
+I am a passionate software engineer who enjoys everything related to app development. I love helping create innovative solutions by following patterns and best practices to ensure that the code is efficient, scalable, and easily readable. Additionally, as a constantly evolving student, I am always excited to acquire new knowledge, skills, and techniques to create even better applications.
 
-## 💬 Contact Me
-- 📧 Email: andreyacost24ra18@gmail.com
-- 🔗 LinkedIn: Andrey Acosta Ramirez
+
+## 💬 Contact Information
+
+| Contact Method | Details |
+| -------------- | ------- |
+| 📧 Email        | andreyacost24ra18@gmail.com |
+| 🔗 LinkedIn     | [Andrey Acosta Ramirez](https://www.linkedin.com/in/andrey-acosta-r-b40446221/) |
+
+
+## 💻 Technologies I Use
+
+💻 Programming Languages: C#, Java
+
+🖥️ Back-end Technologies: .Net Core, .Net Framework, Spring Boot
+
+🗄️ Databases: MySQL, Microsoft SQL Server
+
+🌥️ Cloud Platforms: Microsoft Azure
+
+⚙️ Tools: Git, Azure DevOps
+
+🚀 I'm always looking to learn new technologies and expand my skillset, so this list is always growing! 💪
+arn new technologies and expand my skillset, so this list is always growing! 💪
