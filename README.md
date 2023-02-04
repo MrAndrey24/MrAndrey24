@@ -24,5 +24,9 @@ I am a passionate software engineer who enjoys everything related to app develop
 
 ⚙️ Tools: Git, Azure DevOps
 
+## Certifications
+- Scrum Fundamentals Certified | [View Certification](https://www.scrumstudy.com/certification/verify?type=SFC&number=925793)
+
+
 🚀 I'm always looking to learn new technologies and expand my skillset, so this list is always growing! 💪
 arn new technologies and expand my skillset, so this list is always growing! 💪
