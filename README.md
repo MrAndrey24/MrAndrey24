@@ -9,7 +9,7 @@ I am a passionate software engineer who enjoys everything related to app develop
 | Contact Method | Details |
 | -------------- | ------- |
 | 📧 Email        | andreyacost24ra18@gmail.com |
-| 🔗 LinkedIn     | [Andrey Acosta Ramirez](https://www.linkedin.com/in/andrey-acosta-r-b40446221/) |
+| 🔗 LinkedIn     | [Andrey Acosta Ramirez](https://www.linkedin.com/in/andrey-acosta-r/) |
 
 
 ## 💻 Technologies I Use
